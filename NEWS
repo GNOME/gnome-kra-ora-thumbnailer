@@ -1,3 +1,9 @@
+1.4
+---
+
+- Fix a crash with files in the Trash, or Recent files
+- Quiet build for newer versions of gdk-pixbuf/GLib
+
 1.3
 ---
 
